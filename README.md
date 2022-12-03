@@ -5,10 +5,10 @@ Projet Hello World crée en utilisant Angular 15 avec nginx sous docker.
 1-Installez node: https://nodejs.org/en/          
 2-Installez npm: https://docs.npmjs.com/cli/v9/commands/npm-install         
 3-Installez Angular CLI: npm install -g @angular/cli   
-4-Installez Docker Desktop :
-    -Sur windows:https://docs.docker.com/desktop/install/windows-install/
-    -Sur MAC: https://docs.docker.com/desktop/install/mac-install/
-    -Sur Linux: https://docs.docker.com/desktop/install/linux-install/ 
+4-Installez Docker Desktop :                               
+    -Sur windows:https://docs.docker.com/desktop/install/windows-install/                                
+    -Sur MAC: https://docs.docker.com/desktop/install/mac-install/                                
+    -Sur Linux: https://docs.docker.com/desktop/install/linux-install/                               
 
 
 
