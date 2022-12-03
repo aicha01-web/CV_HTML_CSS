@@ -24,7 +24,7 @@ Projet Hello World crée en utilisant Angular 15 avec nginx sous docker.
 
 
 ## ALTERNATIVE
-L'étape 3 peut être sauté en décommentant dans le dockerfile la première partie:
+L'étape 3 peut être sauté en décommentant dans le dockerfile la première partie:                                           
     # FROM node:18.10 as node                      
     # WORKDIR /app                               
     # COPY . .                            
